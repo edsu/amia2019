@@ -11,21 +11,24 @@ transition: slide
 
 ## Airtable API
 
+::: fragment
+<em>& static sites</em>
+:::
+
+Ed Summers (MITH) / <a href="https://twitter.com/edsu">@edsu</a>
+
 # 
 
 ::: incremental
 1. *What* are APIs?
 2. *Why* use the Airtable API?
 3. *How* do you use the Airtable API?
+4. *Uhhh* ... static sites, what are those?
 :::
 
 #
 
 <img width="80%" src="images/apis.png">
-
-#
-
-<a href="https://ifttt.com/airtable"><img src="images/ifttt.png"></a>
 
 # 
 
@@ -280,8 +283,59 @@ https://api.airtable.com/v0/app0oW/Folder-Level-Metadata
 
 #
 
-<img width="60%" src="images/diagram.png">
+<img width="50%" src="images/diagram-simple.png">
 
-# 
+#
+
+<img width="45%" src="images/diagram-complex.png">
+
+#
 
 <img src="images/docs.png">
+
+#
+
+<img style="width: 70%; border: thin solid grey;" src="images/static-def.png">
+
+#
+
+## Static Site Emoji Challenge
+
+<hr>
+
+::: left
+Illustrate the difference between static and dynamic websites using only two
+sequences of emoji.
+:::
+
+#
+
+<a href="https://twitter.com/anjacks0n/status/1263425641246076928"><img style="border: thin solid black;" src="images/andy-emoji.png"></a>
+
+#
+
+<a href="https://twitter.com/danbri/status/1263418024222220288"><img style="border: thin solid black;" src="images/dan-emoji.png"></a>
+
+#
+
+<a href="https://twitter.com/m4c9416/status/1263433572322619392"><img style="border: thin solid black;" src="images/michael-emoji.png"></a>
+
+#
+
+<a href="https://twitter.com/bitarchivist/status/1263431878683525121"><img style="border: thin solid black;" src="images/tessa-emoji.png"></a>
+
+#
+
+<a href="https://www.staticgen.com/"><img style="border: thin solid black;" src="images/static-sites.png"></a>
+
+#
+
+<img width="45%" src="images/static-site.png">
+
+#
+
+<img width="45%" src="images/static-site-pbcore.png">
+
+#
+
+<a href="https://airtable.com/integrations"><img style="border: thin inset black;" width="90%" src="images/automate.png"></a> 
